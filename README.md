@@ -1,4 +1,10 @@
 ![dino](https://user-images.githubusercontent.com/44740658/97583402-ec40ac80-1a1c-11eb-8fe4-987a2a9afbd7.gif)
+<p align="center">
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jainharsh21)
+[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=jainharsh270@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/jainharsh21) 
+<p>
 
 ### Hi there 👋
 

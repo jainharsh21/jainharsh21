@@ -6,6 +6,7 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jainharsh21)
 [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=jainharsh270@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/jainharsh21) 
+![Visits Badge](https://komarev.com/ghpvc/?username=jainharsh21)
 <p>
 
 ### Hi there 👋

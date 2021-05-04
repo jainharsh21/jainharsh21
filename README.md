@@ -13,7 +13,7 @@
 
 
 - 🔭 I’m currently working on various products for clients
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Data Structure and Algorithms
 - 💬 Ask me about data science/software development
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=jainharsh21&show_icons=true&count_private=true&theme=radical)
